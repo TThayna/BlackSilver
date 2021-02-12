@@ -1,0 +1,158 @@
+.body{
+
+    margin: 0;
+    padding: 0;
+}
+
+.img-background{
+
+    background: url("../img/fullscreen-61-1400x894.jpg") 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 579px;
+    position: relative;
+}
+
+.ul-menus{
+
+    position: absolute;
+    list-style: none;
+    display: flex;
+    top: 61px;
+    right: 36px;
+}
+
+.menu{
+
+    text-decoration: none;
+    color: #fff;
+}
+
+.home{
+
+    font-family: 'Jost', sans-serif;
+    padding-right: 45px;
+    font-size: 13px;
+    font-weight: 500;
+   
+}
+
+.pages{
+
+    font-family: 'Jost', sans-serif;
+    padding-right: 45px;
+    font-size: 13px;
+    font-weight: 500;
+    
+}
+
+.portifolios{
+
+    font-family: 'Jost', sans-serif;
+    padding-right: 45px;
+    font-size: 13px;
+    font-weight: 500;
+    
+}
+
+.gallery{
+
+    font-family: 'Jost', sans-serif;
+    padding-right: 45px;
+    font-size: 13px;
+    font-weight: 500;
+    
+}
+
+.journal{
+
+    font-family: 'Jost', sans-serif;
+    padding-right: 45px;
+    font-size: 13px;
+    font-weight: 500;
+    
+}
+
+.events{
+
+    font-family: 'Jost', sans-serif;
+    padding-right: 45px;   
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.profing{
+
+    font-family: 'Jost', sans-serif;
+    padding-right: 45px;
+    font-size: 13px;
+    font-weight: 500;
+
+}
+
+.shop{
+
+    font-family: 'Jost', sans-serif;
+    padding-right: 45px;
+    font-size: 13px;
+    font-weight: 500;
+    
+}
+
+
+.logotipo{
+
+    position: absolute;
+    top: 54px;
+    left: 90px;
+    width: 198px;
+}
+
+.photography{
+
+    position: absolute;
+    top: 232px;
+    right: 136px;
+    color: #fff;
+    font-weight: 300;
+    font-size: 44px;
+    font-family: 'Jost', sans-serif;
+}
+
+.blacksilver-text{
+    position: absolute;
+    top: 336px;
+    right: 137px;
+    text-align: right;
+    color: #fff;
+    font-family: 'Jost', sans-serif;
+    font-size: 14px;
+    line-height: 23px;
+
+}
+
+.bottom{
+
+    position: absolute;
+    top: 431px;
+    right: 137px;
+    font-family: 'Jost', sans-serif;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: solid 1px white;
+    padding-left: 37px;
+    padding-right: 37px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* area hover */
+
+.bottom:hover{
+
+    background-color: white;
+    color: black;
+}
+
